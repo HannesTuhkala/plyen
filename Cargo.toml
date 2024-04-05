@@ -11,7 +11,7 @@ build = "build.rs"
 bincode = "1.2.1"
 rand = "0.7.2"
 rand_derive = "0.5.0"
-whoami = "0.6.0"
+whoami = "1.5.0"
 sdl2 = {version = "0.32.2", features = ["image", "mixer", "ttf"]}
 libplen = {path="libplen"}
 unicode-truncate = "0.1.1"
